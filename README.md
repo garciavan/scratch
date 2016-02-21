@@ -1,2 +1,2 @@
 # scratch
-My Scratch Projects
+These are the **scratch** projects I am creating.
